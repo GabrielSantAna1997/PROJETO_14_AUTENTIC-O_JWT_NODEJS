@@ -1,3 +1,3 @@
-1- Utilizei o Bcrypt
-2- jwt
-3- Usei o mongo
+1- Utilizei o Bcrypt<br>
+2- jwt<br>
+3- Usei o mongo<br>
